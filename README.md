@@ -1,5 +1,6 @@
 # Financial Analysis 
 
+- Data cleaning
 - Simple dataframe building
 - Financial statement analysis
 - Trend identification
