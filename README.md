@@ -1,14 +1,7 @@
-# Stock Analysis with Python: Balance Sheet Analysis 
+# Financial Analysis 
 
-Content: 
-- Basic Balance Sheet Analysis
-- Trend(s) Idenfication
-- Ratios Calculation
-- Data Visualization (Plotly Graphing)
-
-
-
-
-
-
-Guided by Tae Woo Kim's videos: https://www.youtube.com/watch?v=UPx_9otDCmE 
+- Simple dataframe building
+- Financial statement analysis
+- Trend identification
+- Ratio calculation/computation 
+- Graph visualization 
