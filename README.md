@@ -1,4 +1,4 @@
-# Financial Analysis 
+# Financial Analysis with Python
 
 - Data cleaning
 - Simple dataframe building
